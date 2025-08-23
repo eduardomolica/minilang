@@ -76,6 +76,6 @@ gcc -o minilang main.c
 
 ## 🎤 Apresentação (HTML Slide)
 
-[👉 Slides de Apresentação](https://ramomsouza07.github.io/minilangc/slides.html)
+[👉 Slides de Apresentação](https://eduardomolica.github.io/minilangc/slides.html)
 
 
